@@ -7,7 +7,7 @@ import java.net.Socket;
 import javax.swing.*;
 
 
-public class GoGameClient {
+public class GoGameClient { 
 
 
     private JFrame frame = new JFrame("GoGame");
